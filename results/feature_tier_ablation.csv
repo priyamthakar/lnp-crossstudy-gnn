@@ -1,0 +1,4 @@
+Feature Tier,Num Features,Test_R2,Test_RMSE,Test_MAE,Test_Pearson_r,Test_Spearman_rho,Test_N
+tier1_curated,475,0.027,50.3598,25.6632,0.4933,0.6813,90
+tier2_with_ecfp,723,-0.1296,54.2624,26.8473,0.4493,0.6726,90
+tier3_full,3356,-0.1263,54.1814,25.7882,0.462,0.7107,90
